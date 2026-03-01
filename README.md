@@ -1,5 +1,9 @@
 # SimLab: Comprehensive Simulation Toolkit
 
+<!-- BADGES:START -->
+[![agent-based-simulation](https://img.shields.io/badge/-agent--based--simulation-blue?style=flat-square)](https://github.com/topics/agent-based-simulation) [![business-simulation](https://img.shields.io/badge/-business--simulation-blue?style=flat-square)](https://github.com/topics/business-simulation) [![data-visualization](https://img.shields.io/badge/-data--visualization-blue?style=flat-square)](https://github.com/topics/data-visualization) [![discrete-event-simulation](https://img.shields.io/badge/-discrete--event--simulation-blue?style=flat-square)](https://github.com/topics/discrete-event-simulation) [![educational-tools](https://img.shields.io/badge/-educational--tools-blue?style=flat-square)](https://github.com/topics/educational-tools) [![modeling](https://img.shields.io/badge/-modeling-blue?style=flat-square)](https://github.com/topics/modeling) [![python](https://img.shields.io/badge/-python-3776ab?style=flat-square)](https://github.com/topics/python) [![simulation](https://img.shields.io/badge/-simulation-blue?style=flat-square)](https://github.com/topics/simulation) [![stochastic-processes](https://img.shields.io/badge/-stochastic--processes-blue?style=flat-square)](https://github.com/topics/stochastic-processes) [![system-dynamics](https://img.shields.io/badge/-system--dynamics-blue?style=flat-square)](https://github.com/topics/system-dynamics)
+<!-- BADGES:END -->
+
 SimLab is a Python package providing a versatile set of simulation tools for modeling complex systems across various domains. It offers a unified interface for different simulation paradigms, making it ideal for educational, research, and business applications.
 
 ## Installation
